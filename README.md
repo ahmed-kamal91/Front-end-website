@@ -1,5 +1,5 @@
 ## intro :
-thank you for interesting! ^_^
+thank you for interesting! ^_^ </br>
 on my journey of exploring what web development looks like, I create this website as part of my learning. </br>
 i appreciate what i reach on it so i want to share it with you! 
 
