@@ -8,19 +8,19 @@ i appreciate what i reach on it so i want to share it with you!
 ## Notes : website mainly for downloading photo
 
 ## HomePage :
-its a colerful homepage using mix of cold and hot colors to attrat eye, unfortunately i made it just for pc not made for resolution lower than that.
-contain 3 sections: 
-  1-intro
-  2-explanation of website orientation
-  3-Contact us
+its a colerful homepage using mix of cold and hot colors to attrat eye, unfortunately i made it just for pc not made for resolution lower than that. </br>
+contain 3 sections: </br>
+  1-intro </br>
+  2-explanation of website orientation </br>
+  3-Contact us </br>
 
 ![all_homepage](https://user-images.githubusercontent.com/91970695/178007947-fd3450d5-782f-4677-8917-e2fa3b877bf6.png)
 
 ## ExplorePage :
-in bar above you will find <explore>. that is the page that contain the actual content of website
-  contain 2 horizaital sections:
-  1-Advertisment
-  2-Images
+in bar above you will find "explore". that is the page that contain the actual content of website </br>
+  contain 2 horizaital sections: </br>
+  1-Advertisment </br>
+  2-Images </br>
   
 it is difficut to see it from just an image
   
