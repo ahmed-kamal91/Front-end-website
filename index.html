@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>explore</title>
+
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body id="wrap">
+    <section class="up">
+      <nav>
+        <a href="index.html"><img src="images/log_6r.png" alt="logo" /></a>
+        <ul class="nav_link">
+          <li><a href="homepage.html">HOME</a></li>
+          <li><a href="index.html">EXPLORE</a></li>
+          <li id="contact"><a href="homepage.html">CONTACT</a></li>
+          <li><a href="login.html">SIGN</a></li>
+        </ul>
+      </nav>
+    </section>
+    <section class="up_adv">
+      <h1>Your Journey Start !</h1>
+    </section>
+    <div class="wrapper">
+      <div class="content">
+        <div id="adv" class="adv">
+          <a
+            href="https://eand.com/ar/?utm_source=youm7&utm_medium=display&utm_campaign=etisalat-group-launch"
+          >
+            <img src="images/ikea1.jpg" alt="advertisent"
+          /></a>
+        </div>
+        <div class="explore">
+          <div class="image">
+            <img src="images/foest.jpg" alt="photo" />
+            <img src="images/wp3176721-flat-wallpaper-hd.jpg" alt="photo" />
+            <img src="images/wp3268619-flat-wallpaper-hd.jpg" alt="photo" />
+            <img src="images/2750016.jpg" alt="photo" />
+            <img src="images/wolf.jpg" alt="photo" />
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="jquery-3.6.0.min.js"></script>
+    <script>
+      $(window).on("scroll", function (e) {
+        const advElem = $("#adv a");
+        if ($(this).scrollTop() > 146) {
+          advElem.addClass("fix-adv");
+        } else {
+          advElem.removeClass("fix-adv");
+        }
+      });
+    </script>
+  </body>
+</html>
+
